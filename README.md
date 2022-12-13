@@ -13,7 +13,7 @@ Configure Ansible server on VM 1 to deploy a webserver to VM2 and VM3 on port 80
 
 
 
-### * Step 2:
+### *Step 2:
 Generated 2048-bit SSH-2 RSA key pair for login while deploying webserver instances
 on AWS EC2
 
